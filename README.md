@@ -1,4 +1,4 @@
-# plan-xd
+# plan-xp
 
 - Criado utilizando somente HTML, CSS e Javascript.
 
